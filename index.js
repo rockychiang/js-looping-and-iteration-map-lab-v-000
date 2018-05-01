@@ -3,7 +3,11 @@ function lowerCaseDrivers(array) {
 }
 
 function nameToAttributes(array){
-  return array.map()
+  return array.map(function(name) {
+    split = name.split(" ")
+    return 
+    
+  })
 }
 
 function attributesToPhrase(){
