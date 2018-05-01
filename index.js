@@ -10,5 +10,5 @@ function nameToAttributes(array){
 }
 
 function attributesToPhrase(){
-  
+  return array.map()
 }
