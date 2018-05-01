@@ -10,5 +10,5 @@ function nameToAttributes(array){
 }
 
 function attributesToPhrase(array){
-  return array.map(function() {})
+  return array.map(function(driver) {return })
 }
