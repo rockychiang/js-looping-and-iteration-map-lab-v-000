@@ -3,7 +3,7 @@ function lowerCaseDrivers(array) {
 }
 
 function nameToAttributes(){
-  
+  return 
 }
 
 function attributesToPhrase(){
