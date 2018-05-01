@@ -1,5 +1,5 @@
 function lowerCaseDrivers(array) {
-  array.map(function(name){return name.toLowerCase()})
+  array.map(function(driver){return driver.name.toLowerCase()})
 }
 
 function nameToAttributes(){
